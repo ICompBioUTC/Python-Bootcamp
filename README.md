@@ -7,5 +7,7 @@
 * [Python introduction](https://github.com/ICompBioUTC/Python-Bootcamp/blob/master/iCompBio_Python_Introduction.ipynb)
 
 ## Day 2
+* Python on biological data
 
-Modified from http://swcarpentry.github.io/python-novice-inflammation/
+
+Note: Modified from http://swcarpentry.github.io/python-novice-inflammation/
