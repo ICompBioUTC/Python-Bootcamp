@@ -8,6 +8,9 @@
 
 ## Day 2
 * Python on biological data
+* Please take this [anonymous post-survey](https://forms.gle/p57UKsSDNGUW99bL8)
 
 
 Note: Modified from http://swcarpentry.github.io/python-novice-inflammation/
+
+
